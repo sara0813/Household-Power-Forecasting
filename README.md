@@ -149,5 +149,3 @@ Input (time window × features)
 * Hochreiter, S., & Schmidhuber, J. (1997). *Long Short-Term Memory*
 
 ---
-
-> 본 프로젝트는 **학습용 / 과제 제출용**으로 작성되었으며, 재현 가능성과 코드 구조화를 중점으로 한다.
