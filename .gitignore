@@ -7,6 +7,7 @@ runs/
 .venv/
 .env
 EOF
+
 data/processed/
 
 # data (do not commit)
