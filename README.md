@@ -146,6 +146,4 @@ Input (time window × features)
 
 * UCI Machine Learning Repository: Electric Power Consumption Dataset
 * Kaggle: [https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set)
-* Hochreiter, S., & Schmidhuber, J. (1997). *Long Short-Term Memory*
-
 ---
